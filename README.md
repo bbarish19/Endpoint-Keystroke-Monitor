@@ -1,5 +1,6 @@
-Endpoint-Keystroke-Monitor
+#Endpoint-Keystroke-Monitor
 This tool captures keystrokes and logs them to an output text file while running in the background.
+
 Disclaimer
 
 This tool is intended for ethical and authorized use only. Unauthorized use of this software to record keystrokes without explicit permission is illegal and may violate privacy laws. The developer assumes no responsibility for any misuse.
